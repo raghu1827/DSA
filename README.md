@@ -1,8 +1,8 @@
 # DSA IN JAVA
 ->DATA STRUCTURE AND ALGORITHMS
-1)Arrays
-2)Bubble Sort
-3)Selection sort 
-4)Insertion sort
-5)Quick sort
-6)Merge Sort
+1)Arrays<br>
+2)Bubble Sort<br>
+3)Selection sort <br>
+4)Insertion sort <br>
+5)Quick sort  <br>
+6)Merge Sort  
