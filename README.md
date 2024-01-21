@@ -7,4 +7,6 @@
 5)Quick sort  <br>
 6)Merge Sort <br>
 7)Binary Search <br> 
-8)Linear Search
+8)Linear Search<br>
+
+Author-Raghavendra
