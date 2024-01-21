@@ -1,6 +1,5 @@
 # DSA IN JAVA
--> <h1>DATA STRUCTURE AND ALGORITHMS</h1>
-<br>
+<h3>DATA STRUCTURE AND ALGORITHMS</h3> <br>
 1)Arrays<br>
 2)Bubble Sort<br>
 3)Selection sort <br>
