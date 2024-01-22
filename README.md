@@ -10,4 +10,5 @@
 8)Linear Search<br>
 9)LinkedList- Singly linkedList<br>
 10)Stack<br>
+11)Queue<br>
 Author-Raghavendra
