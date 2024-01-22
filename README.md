@@ -9,4 +9,5 @@
 7)Binary Search <br> 
 8)Linear Search<br>
 9)LinkedList- Singly linkedList<br>
+10)Stack<br>
 Author-Raghavendra
